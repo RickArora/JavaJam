@@ -1,0 +1,58 @@
+@media screen and (min-width: 450px) {
+
+#wrapper {
+	text-align: center;
+	font-size: 100%;
+}
+
+.mobile {
+	visibility: hidden;
+	color: black;
+	background-color: white;
+}
+
+h1 {
+	color: #7F3F00;
+	background-color:#BF7F00;
+
+}
+
+body {
+	background-color: #FFFFBF;
+	color: #7F3F00;
+}
+
+footer {
+	background-color: #BF7F00; 
+}
+
+}
+
+@media screen and (max-width: 449px) {
+h1 {
+	color: #white;
+	background-color: red;
+	text-align: center;
+
+
+}
+
+
+#wrapper {
+	text-align: center;
+}
+
+.mobile {
+	color: black;
+	background-color: orange;
+}
+
+body {
+	background-color: #FFFFBF;
+	color: #7F3F00;
+}
+
+footer {
+	background-color: ; 
+}
+}
